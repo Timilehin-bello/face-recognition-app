@@ -6,7 +6,7 @@ const ImageLinkForm = (props) => {
     return (
         <div>
             <p className="f3">
-                {'This magic brain will detect faces in your pictures'}
+                {'This App will detect faces in your pictures'}
             </p>
             <div className="center">
                 <div className=" form center pa4 br3 shadow-5">
